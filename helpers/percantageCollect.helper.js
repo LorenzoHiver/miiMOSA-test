@@ -1,0 +1,1 @@
+export const percentageCollected = (current, target) =>  Math.round(current * 100 / target).toString();
